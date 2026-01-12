@@ -11,4 +11,6 @@
 <h2>/blog</h2>
 <img width="1346" height="651" alt="Screenshot 2026-01-12 130338" src="https://github.com/user-attachments/assets/317b69e6-be61-4df9-be9d-99f142310df1" />
 <br>
+<h2>404</h2>
 <img width="1919" height="893" alt="Screenshot 2026-01-12 130402" src="https://github.com/user-attachments/assets/67e5efc1-df2d-4d45-bb97-9a686aed91fe" />
+
